@@ -1,1 +1,1 @@
-parameter benar. slot fafafa memberikan kemenangan jackpot.
+parameter benar.
