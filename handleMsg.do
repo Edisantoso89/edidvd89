@@ -1,1 +1,1 @@
-10
+parameter benar.
