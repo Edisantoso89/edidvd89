@@ -1,15 +1,15 @@
-[game slot csfff]
-mendapatkan superwin
-mendapatkan jackpot
-mendapatkan scatter
-mendapatkan superwin item kakek merah
+[game_slot_csfff]
+mendapatkan_superwin=1
+mendapatkan_jackpot=1
+mendapatkan_scatter=1
+mendapatkan_superwin_item_kakek_merah=1
 
-[game slot hkfg]
-mendapatkan superwin
-mendapatkan perkalian 90
-mendapatkan grand
-mendapatkan scatter
+[game_slot_hkfg]
+mendapatkan_superwin=1
+mendapatkan_perkalian_90=1
+mendapatkan_grand=1
+mendapatkan_scatter=1
 
-[game slot dfdc]
-mendapatkan superwin
-mendapatkan superwin item burung
+[game_slot_dfdc]
+mendapatkan_superwin=1
+mendapatkan_superwin_item&burung=1
